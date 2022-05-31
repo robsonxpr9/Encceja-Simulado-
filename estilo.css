@@ -1,0 +1,339 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+   
+}
+
+
+body{
+
+   display: block;
+   padding: 1%;
+   font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+main{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    border: solid 1px;
+
+   
+
+   
+   
+
+}
+
+header{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    border: solid 1px;
+   flex-wrap: wrap;
+    
+}
+
+
+img{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+   flex-wrap: wrap;
+   object-fit: contain;
+
+}
+
+
+#questao1{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+   flex-wrap: wrap;
+   border: solid 2px;
+   
+   
+}
+
+
+article{
+
+    padding: 2%;
+}
+
+
+
+#b1{
+    position: relative;
+    left: 50px;
+}
+
+#b2{
+    position: relative;
+    left: 40px;
+}
+
+
+#b3{
+    position: relative;
+    left: 14px;
+}
+
+
+#b4{
+    position: relative;
+    left: 9px;
+   
+}
+
+
+#imagem2{
+width: 100%;
+height: 30rem;
+object-fit: contain;
+
+}
+
+#imagem3{
+    width: 100%;
+    height: 40rem;
+    object-fit: contain;
+    
+    
+    }
+
+
+#imagem4{
+    width: 100%;
+    height: 40rem;
+    object-fit: contain;
+    left: -10px;
+    position: relative;
+    
+    }
+
+#questao2{
+
+    border: solid 2px;
+    padding: 1%;
+    margin-bottom: 50px;
+   
+
+} 
+
+
+
+
+
+#resposta{
+    border: solid 1px;
+    text-align: center;
+   
+    
+}
+
+#resposta1{
+    border: solid 1px;
+    text-align: center;
+   
+    
+}
+
+.certo{
+
+    background-color: chartreuse;
+}
+
+
+.errado{
+
+    background-color: red;
+}
+
+.btn-grip{
+    position: relative;
+    left: 50px;
+}
+
+
+.btn-ERROU{
+    position: relative;
+    left: 168px;
+    top: -30px;
+}
+
+#questao3{
+    border: solid 2px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.btn-arena{
+    position: relative;
+    left: 90px;
+    top: -30px;
+}
+
+
+.pontoss{
+
+    text-align: center;
+}
+
+#resposta2{
+    text-align: center;
+}
+
+#questao4{
+
+    border: solid 2px;
+    padding: 1%;
+    margin-bottom: 50px;
+   
+
+} 
+
+#resposta4{
+    text-align: center;
+}
+
+
+#resposta5{
+    text-align: center;
+}
+
+#resposta6{
+    text-align: center;
+}
+
+#resposta7{
+    text-align: center;
+}
+
+#resposta8{
+    text-align: center;
+}
+
+#resposta9{
+    text-align: center;
+}
+
+#resposta10{
+    text-align: center;
+}
+
+#resposta11{
+    text-align: center;
+}
+
+#resposta12{
+    text-align: center;
+}
+
+#resposta13{
+    text-align: center;
+}
+
+#resposta14{
+    text-align: center;
+}
+
+#resposta15{
+    text-align: center;
+}
+
+#resposta16{
+    text-align: center;
+}
+
+#resposta17{
+    text-align: center;
+}
+
+#resposta18{
+    text-align: center;
+}
+
+#resposta19{
+    text-align: center;
+}
+
+#resposta20{
+    text-align: center;
+}
+
+#resposta21{
+    text-align: center;
+}
+
+#resposta22{
+    text-align: center;
+}
+
+#resposta23{
+    text-align: center;
+}
+
+#resposta24{
+    text-align: center;
+}
+
+#resposta25{
+    text-align: center;
+}
+
+#resposta26{
+    text-align: center;
+}
+
+#resposta27{
+    text-align: center;
+}
+
+#resposta28{
+    text-align: center;
+}
+
+#resposta29{
+    text-align: center;
+}
+
+#resposta30{
+    text-align: center;
+}
+
+#questao5{
+    border: solid 2px;
+    padding: 1%;
+    margin-bottom: 50px;
+
+}
+
+
+#resultado{
+
+    width: 100%;
+    background-color: rgb(189, 227, 227);
+    padding: 30px;
+}
+
+#result{
+    text-align: center;
+}
+
+p{
+    position: relative;
+    left: 30px;
+}
